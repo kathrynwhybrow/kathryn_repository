@@ -1,6 +1,6 @@
-#Kathryn's Project
+# Kathryn's Project
 
-##Important Information
+## Important Information
 
 This is an example project.
 It is great
